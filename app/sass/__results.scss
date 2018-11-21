@@ -1,0 +1,45 @@
+.column{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+.bigBorder{
+  background-color: inherit;
+  width: 800px;
+  height: inherit;
+  margin-top: 10px;
+  font: 700 20px 'Bitter';
+  text-align: center;
+  border: 3px solid #85aae5;
+  color: #85aae5;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+}
+.resultImageDiv{
+  width: 800px;
+  height: 450px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.text{
+  padding: 10px;
+}
+.again{
+  background-color: inherit;
+  cursor: pointer;
+  height: 50px;
+  width: inherit;
+  font: 700 20px 'Bitter';
+  text-align: center;
+  border: 3px solid darkred;
+  color: red;
+  text-decoration: none;
+};
+.again:hover {
+  background-color: red;
+  color: white;
+  text-decoration: none;
+}

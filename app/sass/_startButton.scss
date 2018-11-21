@@ -1,0 +1,16 @@
+.btn {
+  background-color: inherit;
+  padding: 12px 22px;
+  cursor: pointer;
+  font: 700 40px 'Bitter';
+  text-decoration: none;
+  text-align: center;
+  border: 2px solid #85aae5;
+  color: #85aae5;
+  width: inherit;
+}
+.btn:hover {
+  background-color: #85aae5;
+  color: white;
+  text-decoration: none;
+}

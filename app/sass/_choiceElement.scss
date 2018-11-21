@@ -1,0 +1,23 @@
+.choiceElement {
+    background-color: inherit;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    height: 50px;
+    font: 700 20px 'Bitter';
+    text-align: center;
+    border: 3px solid #85aae5;
+    color: #85aae5;
+    text-decoration: none;
+}
+.boyOrGirl {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    line-height: 80px;
+}
+.clicked{
+    background-color: #85aae5;
+    color: white;
+    text-decoration: none;
+}
