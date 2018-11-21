@@ -84,7 +84,7 @@ module.exports = [
         description: "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire's soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the legions have waged, has “acquired” every military title, and has never once backed down from a fight. Though the truth of the matter is often questionable, one part of his legend is undeniable: Charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what's his… and to take whatever he can get. "
     },
     {
-        name: "Lee_sin" ,
+        name: "Lee Sin" ,
         traits: ["calm", "rational", "loyal", "dedicated", "friendly", "forgiving"],
         title: "the Blind Monk",
         description: "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks. "
@@ -96,7 +96,7 @@ module.exports = [
         description: "Once a Sentinel of Light, Lucian is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. Consumed by the need to avenge his dead wife, he will not rest until Thresh, the specter who holds her soul, is destroyed. Merciless and single-minded, Lucian allows nothing to stand in the path of this vengeance—anyone or anything foolish enough to try is blown away by an overwhelming barrage of magical gunfire. "
     },
     {
-        name: "Master_yi",
+        name: "Master Yi",
         traits: ["calm", "clever", "dutiful", "loyal", "incorruptible", "cold"],
         title: "the Wuju Bladesman",
         description: "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people—scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them. "
