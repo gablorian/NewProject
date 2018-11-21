@@ -144,7 +144,7 @@ module.exports = [
         description: "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology can humanity's full potential be realized. With a body augmented by steel and science, Viktor is zealous in his pursuit of this bright future. "
     },
     {
-        name: "wukong",
+        name: "Wukong",
         traits: ["childish", "dutiful", "faithful", "patriotic", "friendly", "honest"],
         title: "the Monkey King",
         description: "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master YiSquare Master Yi, Wukong became the last student of the ancient martial art known as Wuju Style Wuju. Armed with an enchanted Crushing Blow staff, Wukong seeks to prevent Ionia from falling to ruin. "

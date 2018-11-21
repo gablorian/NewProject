@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb052744-1ca6-4d22-86b1-738089741ff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/js/components/MainPage/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/MainPage/MaleFemale.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/QuizPage/Quiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/QuizPage/Traits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/ResultPage/Result.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/femaleChampions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/maleChampions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js/components/traits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sass/__results.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sass/_choiceElement.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sass/_choicebox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sass/_redButton.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sass/_startButton.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/containers/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="cb052744-1ca6-4d22-86b1-738089741ff0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -48,7 +28,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
+          <entry key="gitignore" value="4" />
           <entry key="html" value="2" />
           <entry key="jpg" value="10" />
           <entry key="js" value="39" />
@@ -61,7 +41,7 @@
           <entry key="HTML" value="2" />
           <entry key="Image" value="10" />
           <entry key="JavaScript" value="39" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="SCSS" value="20" />
           <entry key="Sass" value="1" />
         </counts>
@@ -86,15 +66,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/components/MainPage/MainPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/components/MainPage/MaleFemale.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/components/QuizPage/Quiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
+            <state relative-caret-position="461">
+              <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -226,7 +197,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="993" />
     <option name="y" value="25" />
     <option name="width" value="927" />
@@ -261,6 +232,11 @@
               <item name="heroku-react-autodeployment" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heroku-react-autodeployment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heroku-react-autodeployment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,15 +281,16 @@
       <workItem from="1542701060637" duration="27204000" />
       <workItem from="1542787491596" duration="109000" />
       <workItem from="1542787691473" duration="3821000" />
-      <workItem from="1542791625095" duration="7804000" />
+      <workItem from="1542791625095" duration="8367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57604000" />
+    <option name="totallyTimeSpent" value="58167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -345,20 +322,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/components/MainPage.js" />
     <entry file="file://$PROJECT_DIR$/app/sass/_choicebox.sass" />
@@ -504,10 +467,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/components/QuizPage/Quiz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
+        <state relative-caret-position="461">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
