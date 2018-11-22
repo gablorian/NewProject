@@ -15,7 +15,6 @@ class Quiz extends React.Component{
             this.state.myTraits.push(element);
             this.props.traits(this.state.myTraits)
         }
-        //console.log(this.state.myTraits)
 
     };
     traitsNumber =()=>{

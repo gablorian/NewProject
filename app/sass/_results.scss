@@ -8,7 +8,7 @@
   background-color: inherit;
   width: 800px;
   height: inherit;
-  margin-top: 10px;
+  margin-bottom: 10px;
   font: 700 20px 'Bitter';
   text-align: center;
   border: 3px solid #85aae5;
@@ -20,6 +20,7 @@
 .resultImageDiv{
   width: 800px;
   height: 450px;
+  margin-bottom: 10px;
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -37,9 +38,18 @@
   border: 3px solid darkred;
   color: red;
   text-decoration: none;
+  transition: 0.5s;
 };
 .again:hover {
   background-color: red;
   color: white;
   text-decoration: none;
+}
+.resultText{
+  margin: 10px;
+  text-align: center;
+  text-shadow: -1px -1px 0px rgba(133, 170, 229,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+  color: #85aae5;
+  opacity: 0.4;
+  font: 700 80px 'Bitter';
 }

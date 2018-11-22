@@ -2,12 +2,13 @@ import React from 'react';
 import males from "../maleChampions";
 import females from "../femaleChampions";
 import _ from "lodash";
+import Slider from 'react-animated-slider';
 
 class Result extends React.Component {
     constructor(props) {
         super(props);
         this.state ={
-            character:{}
+            character:{skins:[]}
         }
     }
 
@@ -37,6 +38,9 @@ class Result extends React.Component {
     render() {
         return (
             <div className={'column'}>
+                <div>
+                    <p className={'resultText'}> You're like a:</p>
+                </div>
                 <div className={'bigBorder'}>
                     <div className={'name'}>
                         <p className={'text'}>{this.state.character.name}</p>
@@ -45,7 +49,10 @@ class Result extends React.Component {
                         <p className={'text'}>{this.state.character.title}</p>
                     </div>
                 </div>
-                <div className={'resultImageDiv'} style={{backgroundImage:`url(/images/${this.state.character.name}.jpg)`}}>
+                <div>
+                    <Slider>
+                        {this.state.character.skins.map((article, index) => <div key={index} style={{backgroundImage:`url(/images/${article}.jpg)`}}></div>)}
+                    </Slider>
                 </div>
                 <div className={'trivia bigBorder text'}>
                     {this.state.character.description}
