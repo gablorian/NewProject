@@ -1,11 +1,4 @@
-# React app for heroku deployment
-this repository has full compatibility with heroku service. You can use it to deploy your ReactJS app. 
+# Personality test of League of Legends
+Personality test which depending on our choices returns LoL champion witch personality trait simillar to ours. App made with REACT, Javascript, CSS, Webpack. Soon will be added more specialized personality test to improve compatibility witch choosen character, and new graphic layout.
 
-##### How to start
-1. Register new heroku account https://heroku.com
-2. Create new dyno - you can use **Free Dyno**
-3. Fork this repository or clone it to your own
-4. Connect Heroku Dyno with your repository ( Deploy --> Deployment method --> Connect github )
-5. Choose your repository ( Deploy --> App connected to GitHub --> Choose your app)
-6. Choose branch which should be deploy ( Deploy --> Automatic deploys )
-7. Check automatically deploy. This feature will build your app always when new commit is detected on chosen branch
+
