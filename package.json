@@ -20,7 +20,7 @@
     "harp": "^0.25.0",
     "lodash": "^4.17.11",
     "lodash.shuffle": "^4.2.0",
-    "npm": "^5.6.0",
+    "npm": "^6.13.4",
     "react": "^0.14.6",
     "react-animated-slider": "^1.1.4",
     "react-dom": "^0.14.6",
